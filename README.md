@@ -1,4 +1,4 @@
-A simple mod that adds rainbow block variants of:
+A simple mod that adds rainbow variants of:
 - Rainbow Glass
 - Rainbow Wool
 - Rainbow Sand
